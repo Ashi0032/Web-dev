@@ -1,0 +1,74 @@
+/*
+ p,a{
+  color: aquamarine;
+ }
+ 
+ li{
+    list-style-type: square;
+ }
+
+.special (class selector)
+{
+    color: aqua; font-weight: bold;
+}
+
+h1+p (means h1 ke just baad wala p just baad p nahi hai toh hoga select) {
+    color=""
+}
+
+a:hover (hover karne pe change ke lea) {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+body h1+p .special (eska meaning bosy ke under h1 ke baad wala p ke special section ko select karna )
+{
+
+}
+
+#heading (id selector){
+
+}
+
+p#one(means p ke under jo id one wale hai unko select karna){
+
+}
+
+l1[class](means l1 ke under jo attributes may class hai unko select karna specific 1 class ko be select kar saktee hai){
+
+}
+
+
+
+PROPERTIES OF CSS-----
+
+COLOR---
+
+h1{
+    color:red;
+}
+p{
+    color: #8e5252;
+}
+#ffffff is used to make a new color with a opacity u can decide yourself
+
+p{
+    color: rgb(37, 47green, blue);
+}
+
+
+BACKGROUND---
+
+p{
+    background-color: antiquewhite;
+}
+
+
+BACKGROUNG IMAGE---
+p{
+    background-image: url(link);
+}
+*/
+p{
+    Background repeat; repeat-x;
+}
